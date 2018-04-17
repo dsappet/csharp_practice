@@ -1,0 +1,7 @@
+C:\Users\bclemans\source\repos\WebServerPingUtility\WebServerPingUtility\bin\Debug\WebServerPingUtility.exe.config
+C:\Users\bclemans\source\repos\WebServerPingUtility\WebServerPingUtility\bin\Debug\WebServerPingUtility.exe
+C:\Users\bclemans\source\repos\WebServerPingUtility\WebServerPingUtility\bin\Debug\WebServerPingUtility.pdb
+C:\Users\bclemans\source\repos\WebServerPingUtility\WebServerPingUtility\obj\Debug\WebServerPingUtility.csprojResolveAssemblyReference.cache
+C:\Users\bclemans\source\repos\WebServerPingUtility\WebServerPingUtility\obj\Debug\WebServerPingUtility.csproj.CoreCompileInputs.cache
+C:\Users\bclemans\source\repos\WebServerPingUtility\WebServerPingUtility\obj\Debug\WebServerPingUtility.exe
+C:\Users\bclemans\source\repos\WebServerPingUtility\WebServerPingUtility\obj\Debug\WebServerPingUtility.pdb
